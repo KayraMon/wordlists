@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "sources": [
+    {
+      "id": "ielts_master",
+      "name": "IELTS Master List",
+      "description": "Essential words for IELTS",
+      "icon": "School",
+      "words": ["ubiquitous", "mitigate", "exacerbate"]
+    },
+    {
+      "id": "toefl_academic",
+      "name": "TOEFL Academic",
+      "description": "High-level academic vocabulary",
+      "icon": "Psychology",
+      "words": ["anomaly", "corroborate", "ephemeral"]
+    }
+  ]
+}
