@@ -3,7 +3,7 @@
   "sources": [
     {
       "id": "ielts_master",
-      "name": "IELTS Master List",
+      "name": "IELTS Master Lis",
       "description": "Essential words for IELTS",
       "icon": "do_not_disturb_on",
       "words": ["ubiquitous", "mitigate", "exacerbate", "cat", "lest"]
